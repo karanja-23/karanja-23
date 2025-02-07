@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm Hosea Karanj</h1>
+<h1 align="center">Hi 👋, I'm Hosea Karanja</h1>
